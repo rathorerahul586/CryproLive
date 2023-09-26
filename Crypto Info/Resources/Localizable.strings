@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  Crypto Info
+
+  Created by Rahul Kumar on 18/09/23.
+  
+*/
+
+"marketOverview" = "Market Overview";
+"allCrypto" = "All Crypto";
+"topGainers" = "Top Gainers";
+"topLosers" = "Top Losers";
+"pastDuration" = "Past %s%";
+"oneD" = "1 D";
+"sevenD" = "7 D";
+"oneM" = "1 M";
+"oneY" = "1 Y";
+"oneDay" = "1 day";
+"sevenDays" = "7 days";
+"oneMonth" = "1 month";
+"oneYear" = "1 year";

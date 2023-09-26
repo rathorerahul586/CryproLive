@@ -1,0 +1,64 @@
+PODS:
+  - Alamofire (5.7.1)
+  - DGCharts (5.0.0):
+    - DGCharts/Core (= 5.0.0)
+  - DGCharts/Core (5.0.0)
+  - Kingfisher (7.9.0)
+  - Moya/Core (15.0.0):
+    - Alamofire (~> 5.0)
+  - Moya/RxSwift (15.0.0):
+    - Moya/Core
+    - RxSwift (~> 6.0)
+  - Reusable (4.1.2):
+    - Reusable/Storyboard (= 4.1.2)
+    - Reusable/View (= 4.1.2)
+  - Reusable/Storyboard (4.1.2)
+  - Reusable/View (4.1.2)
+  - RxCocoa (6.5.0):
+    - RxRelay (= 6.5.0)
+    - RxSwift (= 6.5.0)
+  - RxRelay (6.5.0):
+    - RxSwift (= 6.5.0)
+  - RxSwift (6.5.0)
+  - SkeletonView (1.30.4)
+  - SwiftGen (6.6.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - DGCharts
+  - Kingfisher
+  - Moya/RxSwift
+  - Reusable
+  - RxCocoa
+  - RxSwift
+  - SkeletonView
+  - SwiftGen
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - DGCharts
+    - Kingfisher
+    - Moya
+    - Reusable
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SkeletonView
+    - SwiftGen
+
+SPEC CHECKSUMS:
+  Alamofire: 0123a34370cb170936ae79a8df46cc62b2edeb88
+  DGCharts: 6e0cf2644e8f81ad13f04caa8bc18502870a1c54
+  Kingfisher: 59f908b6d2f403b0a3e539debb0eec05cb27002c
+  Moya: 138f0573e53411fb3dc17016add0b748dfbd78ee
+  Reusable: 6bae6a5e8aa793c9c441db0213c863a64bce9136
+  RxCocoa: 94f817b71c07517321eb4f9ad299112ca8af743b
+  RxRelay: 1de1523e604c72b6c68feadedd1af3b1b4d0ecbd
+  RxSwift: 5710a9e6b17f3c3d6e40d6e559b9fa1e813b2ef8
+  SkeletonView: 5a050f6411e697abd4cda0a8d767013399dccd69
+  SwiftGen: 1366a7f71aeef49954ca5a63ba4bef6b0f24138c
+
+PODFILE CHECKSUM: 9f63fca64f88e692657d8ecb981a03c640efc4ac
+
+COCOAPODS: 1.12.1

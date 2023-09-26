@@ -1,0 +1,23 @@
+strings:
+  inputs:
+    - Crypto Info/Resources/Localizable.strings
+  outputs:
+    - templateName: structured-swift5
+      output: Crypto Info/SwiftGen/Strings.swift
+      
+xcassets:
+  inputs:
+    - Crypto Info/Resources/Assets.xcassets
+    - Crypto Info/Resources/Colors.xcassets
+  outputs:
+    - templateName: swift5
+      output: Crypto Info/SwiftGen/Assets.swift
+      
+ib:
+  inputs:
+    - Crypto Info/Storyboards
+  outputs:
+    - templateName: scenes-swift5
+      output: Crypto Info/SwiftGen/StoryboardScenes.swift
+    - templateName: segues-swift5
+      output: Crypto Info/SwiftGen/StoryboardSegues.swift
